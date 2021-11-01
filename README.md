@@ -1,16 +1,37 @@
-### Hi there 👋
+# Juliane Maran
 
-<!--
-**JulianeMaran32/JulianeMaran32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:office: Programmer: Backend Microservice with SpringBoot   
+:school: I'm currently studying Information Systems at PUCPR/Brazil.   
+:mailbox_with_mail: For more information and suggestions, email me at julianemaran@gamil.com
 
-Here are some ideas to get you started:
+### I'm currently learning and/or improving the following skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 1. Programming  
+* Java: intermediary   
+  - JRE and JDK   
+  - OO, Polymorphism, Exceptions, Collections   
+  - java.lang, java.util, java.io  
+  - Spring Boot API REST  
+  - Java with MongoDB   
+  - Automated testing with JUnit / TDD   
+  - Mock in Java
+
+* Python: basic
+* PHP and Laravel: basic  
+* Swagger: : basic  
+
+##### 2. Front-end
+* HTTP: basic
+* HTML5 e CSS3: basic
+* Bootstrap: basic
+
+##### 3. DevOps
+* Docker: basic
+* Kafka: basic
+
+##### 4. Data Science
+* MongoDB: basic
+* SQL com MySQL: basic
+
+##### 5. Inovação & Gestão
+* Scrum: intermediary
