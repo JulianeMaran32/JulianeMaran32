@@ -4,7 +4,7 @@
 :school: I'm currently studying Information Systems at PUCPR/Brazil.   
 :mailbox_with_mail: For more information and suggestions, email me at julianemaran@gamil.com
 
-### I'm currently learning and/or improving the following skills:
+### Skills:
 
 ##### 1. Programming  
 * Java: intermediary   
