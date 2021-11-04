@@ -40,4 +40,11 @@
     </ul>
   </li>
   <li>Scrum: intermediary</li>
+  <li>IDE: 
+    <ul>
+      <li>Eclipse</li>
+      <li>Spring Tools Suite 4 for Eclipse</li>
+      <li>Visual Studio Conde</li>
+    </ul>
+  </li>
 </ol>
