@@ -36,8 +36,7 @@
   </li> 
   <li>Data Science 
     <ul>
-      <li>Docker: basic</li>
-      <li>Kafka: basic</li>
+      <li>MongoDB: basic</li>
     </ul>
   </li>
   <li>Scrum: intermediary</li>
