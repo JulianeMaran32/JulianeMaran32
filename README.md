@@ -1,7 +1,4 @@
 <h1 align="center"><b> Juliane Maran <b></h1>  
-  
-  PT - Repositório sendo atualizado.  
-  EN - Repository being updated.    
 
 :office: Programmer: Backend Microservice with SpringBoot   
 :school: I'm currently studying Information Systems at PUCPR/Brazil.   
