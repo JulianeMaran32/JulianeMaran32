@@ -7,7 +7,7 @@
   <h2>Skills</h2>
 
 <ol>
-  <li>[Java: intermediary](https://github.com/JulianeMaran32/java)                
+  <li><a href="https://github.com/JulianeMaran32/java">Java: intermediary</a>                
     <ul>                          
       <li>JRE and JDK</li>           
       <li>OO, Polymorphism, Exceptions, Collections</li>  
