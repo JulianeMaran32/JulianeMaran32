@@ -7,7 +7,7 @@
   <h2>Skills</h2>
 
 <ol>
-  <li><a href="https://github.com/JulianeMaran32/java">Java: intermediary</a>                
+  <li>Java: intermediary</a>                
     <ul>                          
       <li>JRE and JDK</li>           
       <li>OO, Polymorphism, Exceptions, Collections</li>  
@@ -40,11 +40,17 @@
     </ul>
   </li>
   <li>Scrum: intermediary</li>
+  <li>Mobile: basic
+    <ul>
+      <li>Java</li>
+    </ul>
+  </li>
   <li>IDE: 
     <ul>
       <li>Eclipse</li>
       <li>Spring Tools Suite 4 for Eclipse</li>
       <li>Visual Studio Conde</li>
+      <li>Android Studio</li>
     </ul>
   </li>
 </ol>
