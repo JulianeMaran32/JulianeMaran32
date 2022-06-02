@@ -18,33 +18,17 @@
       <li>Mock in Java</li>
     </ul>
   </li>
+  <li>Postman and SoapUI: basic</li>
+  <li>XML and JSON: basic</li>
+  <li>Node.js (typescript): basic</li>
   <li>Python: basic</li>
   <li>PHP and Laravel: basic</li>
-  <li>Swagger: : basic</li>
-  <li>Front-end 
-    <ul>
-      <li>HTTP: basic</li>
-      <li>HTML5 e CSS3: basic</li>
-      <li>Bootstrap: basic</li>
-    </ul>
-  </li>
-  <li>DevOps 
-    <ul>
-      <li>Docker: basic</li>
-      <li>Kafka: basic</li>
-    </ul>
-  </li> 
-  <li>Data Science 
-    <ul>
-      <li>MongoDB: basic</li>
-    </ul>
-  </li>
-  <li>Scrum: intermediary</li>
-  <li>Mobile: basic
-    <ul>
-      <li>Java</li>
-    </ul>
-  </li>
+  <li>Swagger: basic</li>
+  <li>Front-end (HTTP, HTML5, CSS3 and Bootstrap): basic</li>
+  <li>DevOps (Docker and Kafka): basic </li> 
+  <li>Data Science (SQL and MongoDB): basic</li>
+  <li>Scrum: basic</li>
+  <li>Mobile (iOS and Android): basic</li>
   <li>IDE: 
     <ul>
       <li>Eclipse</li>
