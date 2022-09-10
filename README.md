@@ -10,28 +10,52 @@
 
 <h2>Skills</h2>
 
-  - JAX-RS e Jersey   
-  - JAX-WS
-  - Estrutura de Dados
-  - Java: Collections, Debug, OO, Polimorfismo, Exceções, JDBC,    
-  - Spring Boot API Rest: construção, segurança, cache, monitoramento, testes, MVC, bibliotecas, TDD    
-  - Microsserviços   
-  - Swagger
-  - Mock em Java  
-  - HTTP  
-  - Segurança de Redes   
-  - Git e Github   
-  - MongoDB   
-  - Docker   
-  - Kafka  
-  - SQL com MySQL      
-  - Scrum   
-  - Kanban   
-  - Agilidade   
-  - Mobile: Android  
-  - Python  
-  - Python para Data Science  
-  - UML   
+<ol>
+    <li>Programming
+        <ol>Java (advanced)</ol>
+        <ol>Python (basic)</ol>
+        <ol>Node.JS (basic)</ol>
+    </li>
+    <li>Front-end
+        <ol>HTML and CSS (basic) </ol>
+    </li>
+    <li>Data Science
+        <ol>SQL: MySQL</ol>
+        <ol>NoSQL: MongoDB</ol>
+        <ol>Statisc</ol>
+        <ol>Excel</ol>
+    </li>
+    <li>DevOps
+        <ol>Containers: Docker</ol>
+        <ol>Kafka</ol>
+        <ol>Web Security</ol>
+        <ol>Network Security</ol>
+    </li>
+    <li>Mobile (basic)
+        <ol>Android: Java</ol>
+        <ol>iOS: Swift</ol>
+    </li>
+    <li>Innovation & Management
+        <ol>Scrum</ol>
+        <ol>Kanban</ol>
+        <ol>Agility</ol>
+        <ol>UML (Unified Modeling Language)</ol>
+        <ol>Git, GitHub and GitLab</ol>
+    </li>
+    <li>Architecture
+        <ol>Clean Architecture</ol>
+        <ol>Hexagonal Architecture or Ports and Adapters</ol>
+        <ol>MVC (Model, View, Controller)</ol>
+    </li>
+    <li>Others
+        <ol>Swagger</ol>
+        <ol>Microservices</ol>
+        <ol>Unit Test</ol>
+        <ol>Mock</ol>
+        <ol>HTTP</ol>
+        <ol>Data Structure</ol>
+    </li>
+</ol>
 
 <br>   
 
