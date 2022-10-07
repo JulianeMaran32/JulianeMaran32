@@ -1,12 +1,12 @@
 <h1 align="center"><b> Juliane Maran <b></h1>  
 
----
+<hr>
 
 :office: Programmer: Backend Microservice with SpringBoot   
 :school: I'm currently studying Information Systems at PUCPR/Brazil.   
 :mailbox_with_mail: For more information and suggestions, email me at julianemaran@gamil.com
 
----
+<hr>
 
 <h2>Skills</h2>
 
@@ -85,4 +85,4 @@
   - [Desenvolvedor Qlikview](./certificados/desenvolvedor-qlikview-do-zero.jpg) 
 
 
----
+<hr>
