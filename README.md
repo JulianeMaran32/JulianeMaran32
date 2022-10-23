@@ -27,7 +27,7 @@
     </li>
     <li>DevOps
         <ol>Containers: Docker</ol>
-        <ol>Kafka</ol>
+        <ol>Messaging Software: Kafka, RabbitMQ</ol>
         <ol>Web Security</ol>
         <ol>Network Security</ol>
     </li>
