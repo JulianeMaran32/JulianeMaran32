@@ -12,10 +12,8 @@
 <div style="display: inline-block">
   <a href="https://github.com/JulianeMaran32">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JulianeMaran32&count_private=true&show_icons=true&theme=radical")>
+      <br>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianeMaran32&langs_count=7&theme=dracula"/> 
-</div>
- <div style="display: inline_block"> <br>
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 <hr>
