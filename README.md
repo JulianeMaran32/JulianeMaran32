@@ -13,7 +13,7 @@
   <a href="https://github.com/JulianeMaran32">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JulianeMaran32&count_private=true&show_icons=true&theme=radical")>
       <br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianeMaran32&langs_count=7&theme=dracula"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JulianeMaran32&langs_count=7&theme=dracula"/> 
 </div>
 
 <hr>
