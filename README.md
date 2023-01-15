@@ -8,14 +8,9 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](julianemaran@gamil.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliane-maran-168b73133)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianeMaran32)
-    
-<div style="display: inline-block">
-  <a href="https://github.com/JulianeMaran32">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JulianeMaran32&count_private=true&show_icons=true&theme=radical")>
-      <br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JulianeMaran32&langs_count=7&theme=dracula"/> 
-</div>
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=JulianeMaran32&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+    
 <hr>
 
 <h2>Skills</h2> 
