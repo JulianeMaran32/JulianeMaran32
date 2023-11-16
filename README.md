@@ -3,7 +3,8 @@
 **About me**    
     
 - :office: Programmer: Backend Microservice with SpringBoot   
-- :school: I'm currently studying Information Systems at PUCPR/Brazil.   
+- :school: I'm currently studying Information Systems at PUCPR/Brazil.
+- portfolio: [showcase](https://github.com/JulianeMaran32/showcase)
     
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](julianemaran@gamil.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliane-maran-168b73133)
