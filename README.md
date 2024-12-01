@@ -9,6 +9,8 @@
   - [Spring Security 6 with JWT, OAuth2, OpenID Connect and KeyCloak](https://github.com/JulianeMaran32/spring-security) <br>
   - [Exception Handling Library](https://github.com/JulianeMaran32/my-libs) <br>
 
+- [![roadmap.sh](https://roadmap.sh/card/tall/662bde9d4e8cd00d38bc0d71?variant=dark)](https://roadmap.sh)
+
 <br>
     
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](julianemaran@gamil.com)
