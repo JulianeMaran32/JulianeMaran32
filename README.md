@@ -2,12 +2,18 @@
 
 **About me**    
     
-- :office: Programmer: Backend Microservice with SpringBoot   
+- :office: Java Software Engineer and Software Architect   
 - :school: I'm currently studying Information Systems at PUCPR/Brazil. 
 - Java and Spring Boot Model Repositories: <br>
   - [Unit Testing with JUnit5 and Mock](https://github.com/JulianeMaran32/unit-testing) <br>
   - [Spring Security 6 with JWT, OAuth2, OpenID Connect and KeyCloak](https://github.com/JulianeMaran32/spring-security) <br>
   - [Exception Handling Library](https://github.com/JulianeMaran32/my-libs) <br>
+
+**Cursos**
+
+- 
+
+<br>
 
 - [![roadmap.sh](https://roadmap.sh/card/tall/662bde9d4e8cd00d38bc0d71?variant=dark)](https://roadmap.sh)
 
@@ -23,4 +29,3 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianeMaran32&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)    
 
-    
