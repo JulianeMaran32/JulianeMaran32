@@ -14,19 +14,6 @@ Sou apaixonada por tecnologia e especialista em desenvolvimento backend com **Ja
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Green?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 💼 Experiência Profissional  
-
-🔹 **Arquiteta de Integração | Compass UOL** (2025 - Atualmente)  
-
-- Desenvolvimento e integração de APIs corporativas para a Telefônica Brasil (Vivo).  
-- Arquitetura de soluções escaláveis utilizando **Java, Spring Boot, Kafka, Docker e Kubernetes**.  
-- Aplicação de práticas de **DevOps e CI/CD** para entrega contínua.  
-
-🔹 **Desenvolvedora Backend Java | Compass UOL** (2021 - 2024)  
-
-- Implementação de microsserviços e integração entre sistemas.  
-- Otimização de APIs e garantia de segurança com **JWT e OAuth**.  
-
 ## 📌 Projetos em Destaque  
 
 🔹 **[My Libs](https://github.com/JulianeMaran32/my-libs)**    
