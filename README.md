@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou Juliane
+# 👋 Hello, I'm Juliane
 
-🚀 Engenheira de Software | Arquiteta de Integração | Desenvolvedora Backend  
+🚀 **Software Engineer | Integration Architect | Backend Developer**
 
-Sou apaixonada por tecnologia e especialista em desenvolvimento backend com **Java e Spring Boot**. Possuo experiência em **microsserviços, arquitetura de integração, APIs escaláveis** e aplicações cloud. Atualmente, atuo como **Arquiteta de Integração**, colaborando em soluções corporativas.
+I'm passionate about technology and specialize in backend development with **Java and Spring Boot**. I have experience in **microservices, integration architecture, scalable APIs**, and cloud applications. Currently, I work as an **Integration Architect**, collaborating on enterprise solutions.
 
 ## 🛠️ Tech Stack  
 
@@ -14,15 +14,16 @@ Sou apaixonada por tecnologia e especialista em desenvolvimento backend com **Ja
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Green?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 📌 Projetos em Destaque  
+## 📌 Featured Projects  
 
 🔹 **[My Libs](https://github.com/JulianeMaran32/my-libs)**    
 🔹 **[Spring Security](https://github.com/JulianeMaran32/spring-security)**  
 🔹 **[Unit Testing](https://github.com/JulianeMaran32/unit-testing.git)**   
 🔹 **[Examples of architecture](https://github.com/JulianeMaran32/arquitetura)**  
 
-## 📬 Contato  
+## 📬 Contact  
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juhvaliatimaran@gmail.com)   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliane-maran/)    
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianeMaran32)  
 
