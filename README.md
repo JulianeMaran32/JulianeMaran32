@@ -127,7 +127,7 @@ Sou uma Arquiteta de Software apaixonada por construir sistemas distribuídos, r
 <p align="center">
   <!-- Card para o repositório SoftwareArchitecture -->
   <a href="https://github.com/JulianeMaran32/SoftwareArchitecture">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianeMaran32&repo=SoftwareArchitecture&theme=tokyonight&show_owner=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianeMaran32&repo=code-architectures&theme=tokyonight&show_owner=true"/>
   </a>
   <!-- Card para o repositório my-libs -->
   <a href="https://github.com/JulianeMaran32/my-libs">
